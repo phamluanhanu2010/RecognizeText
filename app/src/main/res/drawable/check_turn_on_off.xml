@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Hadvlop@gmail.com on 11/1/16 1:13 PM
+  ~ Copyright © 2016, All Rights Reserved.
+  ~
+  ~ Last modified 6/9/16 11:24 AM
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:drawable="@mipmap/ic_turn_off" android:state_checked="false"/>
+    <item android:drawable="@mipmap/ic_turn_on" android:state_checked="true"/>
+    <item android:drawable="@mipmap/ic_turn_on"/>
+
+</selector>
